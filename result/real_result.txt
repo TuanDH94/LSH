@@ -1,0 +1,50 @@
+1.
+Total number of document: 5000
+Number of band: 20. Number of rows: 5
+Thresshold t = (1/b)^(1/n) = 0.549280271653
+So choose thresshold t = 0.55
+Total cadidate pair found is: 3801
+Compute number of true pair is: 2124
+T = 0.558800315706
+Compute number of false pair is: 1677
+E = 0.441199684294
+2.
+Total number of document: 500
+Number of band: 20. Number of rows: 5
+Thresshold t = (1/b)^(1/n) = 0.549280271653
+So choose thresshold t = 0.55
+Total cadidate pair found is: 215
+Compute number of true pair is: 203
+T = 0.944186046512
+Compute number of false pair is: 12
+E = 0.0558139534884
+3.
+Total number of document: 1000
+Number of band: 20. Number of rows: 5
+Thresshold t = (1/b)^(1/n) = 0.549280271653
+So choose thresshold t = 0.55
+Total cadidate pair found is: 311
+Compute number of true pair is: 268
+T = 0.861736334405
+Compute number of false pair is: 43
+E = 0.138263665595
+4.
+Total number of document: 1000
+Number of band: 20. Number of rows: 5
+Thresshold t = (1/b)^(1/n) = 0.549280271653
+So choose thresshold t = 0.8
+Total cadidate pair found is: 268
+Compute number of true pair is: 238
+T = 0.888059701493
+Compute number of false pair is: 30
+E = 0.111940298507
+5.
+Total number of document: 5000
+Number of band: 20. Number of rows: 10
+Thresshold t = (1/b)^(1/n) = 0.741134449107
+So choose thresshold t = 0.8
+Total cadidate pair found is: 2119
+Compute number of true pair is: 1852
+T = 0.873997168476
+Compute number of false pair is: 267
+E = 0.126002831524
